@@ -58,3 +58,5 @@ As of now, I've completed up to **Section 17: Pointers**. Below is a brief overv
 - [LearnQt Guide](https://www.learnqt.guide/)
 
 Feel free to explore the repository and follow along with the course. Contributions, suggestions, and discussions are welcome!
+
+This README is prepared by using ChatGPT!
