@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 17: Pointers**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 18: References**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -37,6 +37,8 @@ As of now, I've completed up to **Section 17: Pointers**. Below is a brief overv
 
 ### Section 16: Arrays
 
+### Section 17: Pointers
+
 ## 🛠️ Tools & Setup
 
 - **Compiler**: GCC 13.2.0
@@ -58,5 +60,3 @@ As of now, I've completed up to **Section 17: Pointers**. Below is a brief overv
 - [LearnQt Guide](https://www.learnqt.guide/)
 
 Feel free to explore the repository and follow along with the course. Contributions, suggestions, and discussions are welcome!
-
-This README is prepared by using ChatGPT!
