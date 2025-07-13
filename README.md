@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 18: References**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 19: Character Manipulation and Strings**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -39,6 +39,8 @@ As of now, I've completed up to **Section 18: References**. Below is a brief ove
 
 ### Section 17: Pointers
 
+### Section 18: References
+
 ## 🛠️ Tools & Setup
 
 - **Compiler**: GCC 13.2.0
@@ -57,6 +59,7 @@ As of now, I've completed up to **Section 18: References**. Below is a brief ove
 
 - [Course Website](https://www.udemy.com/course/the-modern-cpp-20-masterclass/)
 - [Daniel Gakwaya's GitHub](https://github.com/rutura)
-- [LearnQt Guide](https://www.learnqt.guide/)
 
 Feel free to explore the repository and follow along with the course. Contributions, suggestions, and discussions are welcome!
+
+This README is prepared using ChatGPT!
