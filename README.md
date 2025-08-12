@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 21: Enums and Type Aliases**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 23: Getting Things out of Functions**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -44,6 +44,10 @@ As of now, I've completed up to **Section 21: Enums and Type Aliases**. Below is
 ### Section 19: Character Manipulation and Strings
 
 ### Section 20: Functions
+
+### Section 21: Enums and Type Aliases
+
+### Section 22: Arguments to main
 
 ## 🛠️ Tools & Setup
 
