@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 25: Lambda Functions**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 27: Function Call Stack and Debugging**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -52,6 +52,10 @@ As of now, I've completed up to **Section 25: Lambda Functions**. Below is a bri
 ### Section 23: Getting Things out of Functions
 
 ### Section 24: Function Overloading
+
+### Section 25: Lambda Functions
+
+### Section 26: Functions: The Misfits
 
 ## 🛠️ Tools & Setup
 
