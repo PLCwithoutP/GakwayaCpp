@@ -1,12 +1,26 @@
 #include <iostream>
 
-consteval int get_value()
+double sum(double array[], size_t count)
 {
-    return 5;
+    double sum_total {};
+
+    for (size_t i {}; i < count; i++)
+    {
+        sum_total += array[i];
+    }
+
+    return sum_total;
 }
 
-int main(){
-    constexpr int value = get_value();
-    std::cout << "value : " << value << std::endl;
+
+int main()
+{
+
+    double numbers[] {10.0, 20.0, 30.0, 40.0, 50.0}; // Sum should be 150
+
+    double total = sum(numbers, std::size(numbers));
+
+    std::cout << "sum : " << total << std::endl;
+
     return 0;
 }
