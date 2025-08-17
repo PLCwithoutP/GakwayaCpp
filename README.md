@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 28: Function Templates**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 30: Classes** (**Section 29: C++ 20 Concepts** is bypassed for now). Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -58,6 +58,8 @@ As of now, I've completed up to **Section 28: Function Templates**. Below is a b
 ### Section 26: Functions: The Misfits
 
 ### Section 27: Function Call Stack and Debugging
+
+### Section 28: Function Templates
 
 ## 🛠️ Tools & Setup
 
