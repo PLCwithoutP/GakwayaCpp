@@ -61,7 +61,7 @@ As of now, I've completed up to **Section 31: Classes, Objects and const**. Belo
 
 ### Section 28: Function Templates
 
-### <bypassed> Section 29: C++ 20 Concepts
+### "bypassed" Section 29: C++ 20 Concepts
 
 ### Section 30: Classes
 
