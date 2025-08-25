@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 32: Diving Deep Into Constructors and Initialization**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 33: Friends**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -61,11 +61,13 @@ As of now, I've completed up to **Section 32: Diving Deep Into Constructors and 
 
 ### Section 28: Function Templates
 
-### "bypassed" Section 29: C++ 20 Concepts
+### <bypassed> Section 29: C++ 20 Concepts
 
 ### Section 30: Classes
 
 ### Section 31: Classes, Objects and const
+
+### Section 32: Diving Deep into Constructors and Initialization
 
 ## 🛠️ Tools & Setup
 
