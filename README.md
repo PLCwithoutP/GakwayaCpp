@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 33: Friends**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 34: Static Members**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -68,6 +68,8 @@ As of now, I've completed up to **Section 33: Friends**. Below is a brief overvi
 ### Section 31: Classes, Objects and const
 
 ### Section 32: Diving Deep into Constructors and Initialization
+
+### Section 33: Friends
 
 ## 🛠️ Tools & Setup
 
