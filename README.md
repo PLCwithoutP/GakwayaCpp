@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 35: Namespaces**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 36: Programs with Multiple Files : A Closer Look**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -72,6 +72,8 @@ As of now, I've completed up to **Section 35: Namespaces**. Below is a brief ove
 ### Section 33: Friends
 
 ### Section 34: Static Members
+
+### Section 35: Namespaces
 
 ## 🛠️ Tools & Setup
 
