@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 36: Programs with Multiple Files : A Closer Look**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 37: Smart Pointers**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -75,6 +75,8 @@ As of now, I've completed up to **Section 36: Programs with Multiple Files : A C
 
 ### Section 35: Namespaces
 
+### Section 36: Programs with Multiple Files: A Closer Look
+
 ## 🛠️ Tools & Setup
 
 - **Compiler**: GCC 13.2.0
@@ -97,3 +99,4 @@ As of now, I've completed up to **Section 36: Programs with Multiple Files : A C
 Feel free to explore the repository and follow along with the course. Contributions, suggestions, and discussions are welcome!
 
 This README is prepared using ChatGPT!
+
