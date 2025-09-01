@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through **Daniel Gakwaya's "The 
 
 ## ✅ Progress
 
-As of now, I've completed up to **Section 37: Smart Pointers**. Below is a brief overview of the sections covered:
+As of now, I've completed up to **Section 38: Operator Overloading**. Below is a brief overview of the sections covered:
 
 ### Section 1: Welcome
 
@@ -76,6 +76,8 @@ As of now, I've completed up to **Section 37: Smart Pointers**. Below is a brief
 ### Section 35: Namespaces
 
 ### Section 36: Programs with Multiple Files: A Closer Look
+
+### Section 37: Smart Pointers
 
 ## 🛠️ Tools & Setup
 
